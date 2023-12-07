@@ -1,0 +1,17 @@
+.header{
+  background-color: rgb(185, 193, 193);
+  margin: 10px;
+  padding: 20px;
+}
+
+.product{
+  background-color: aqua;
+  width: fit-content;
+  padding: 20px;
+  margin: 10px;
+}
+
+.productList{
+  width: 10px;
+  display: flex;
+}
